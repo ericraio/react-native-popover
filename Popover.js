@@ -385,7 +385,6 @@ var styles = StyleSheet.create({
     backgroundColor: 'rgba(0,0,0,0.5)',
   },
   popover: {
-    backgroundColor: 'transparent',
     position: 'absolute',
     shadowColor: 'black',
     shadowOffset: {width: 0, height: 2},
