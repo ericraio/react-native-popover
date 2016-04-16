@@ -385,10 +385,6 @@ var styles = StyleSheet.create({
   },
   popover: {
     position: 'absolute',
-    shadowColor: 'black',
-    shadowOffset: {width: 0, height: 2},
-    shadowRadius: 2,
-    shadowOpacity: 0.8,
   },
   content: {
     borderRadius: 3,
@@ -397,10 +393,6 @@ var styles = StyleSheet.create({
   },
   arrow: {
     position: 'absolute',
-    borderTopColor: 'transparent',
-    borderRightColor: 'transparent',
-    borderBottomColor: 'transparent',
-    borderLeftColor: 'transparent',
   },
 });
 
